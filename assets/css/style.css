@@ -1,0 +1,14 @@
+body{
+    font-family: 'Noto Serif', serif;
+   background-image: url(../img/lista.jpg);
+   position: relative;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vg;
+   width: 100%;
+}
+
+.card{
+    opacity: 90%;
+
+}
